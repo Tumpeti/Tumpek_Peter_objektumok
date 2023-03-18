@@ -3,3 +3,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div{
+    margin: 10px;
+    padding: 5px;
+    border: black 2px solid;
+    background-color: bisque;
+}
